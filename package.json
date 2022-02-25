@@ -6,7 +6,7 @@
   "repository": "https://github.com/theblobscp/roombot.git",
   "author": "The Blob SCP <81673375+theblobscp@users.noreply.github.com>",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "dependencies": {
     "discord.js": "^13.6.0"
   },
